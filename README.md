@@ -50,7 +50,7 @@ With experience in consulting, academia, scientific publishing, and entrepreneur
 - 🏆 Young Engineer Excellence Award (2025)  
 - 🥇 Gold Medalist in Geotechnical Research  
 
-📖 Google Scholar: https://scholar.google.com/citations?user=g1BtXD8AAAAJ&hl=en :contentReference[oaicite:0]{index=0}
+📖 Google Scholar: https://scholar.google.com/citations?user=g1BtXD8AAAAJ&hl=en
 
 ---
 
@@ -74,8 +74,8 @@ With experience in consulting, academia, scientific publishing, and entrepreneur
 
 - 💼 LinkedIn: https://www.linkedin.com/in/rajankcnepal/ :contentReference[oaicite:1]{index=1}
 - 📖 Google Scholar: https://scholar.google.com/citations?user=g1BtXD8AAAAJ&hl=en
-- 📧 Email: your-email@example.com
+- 📧 Email: rajankc.ioe@gmail.com
 
 ---
 
-> *Engineering stronger foundations for a resilient future.*
+> *Engineering stronger foundations for a resilient future.
